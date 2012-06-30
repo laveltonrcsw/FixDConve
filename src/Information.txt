@@ -1,0 +1,25 @@
+What is a VIN Number?
+URL: http://en.wikipedia.org/wiki/Vehicle_identification_number
+
+Vin Number Substring Index
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6
+1 B 4 Y E M 9 P 4 K P 1 8 6 5 4 3
+
+General Motors
+Pos. 01-03 - World Maker Identifier
+Pos. 04,05 - Carline/Series
+Pos. 06- Body Style
+Pos. 07- Restraint Code
+Pos. 08- Engine Type
+Pos. 09- Check Digit
+Pos. 10- Model Year
+Pos. 11- Plant
+Pos. 12-17 - Production Seq/Serial Number
+
+Ford
+Honda
+Mazda
+Hyundai
+
+VIN Hacking:
+1H GC P2 67 X9 A1 37 32 1
